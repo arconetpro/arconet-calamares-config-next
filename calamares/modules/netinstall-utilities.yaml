@@ -210,8 +210,6 @@
     - stacer-bin
     - systemd-manager-git
     - tlp
-    - tuxboot
-    - tuxboot-git
     - vnstat
     - wacom-settings-git
     - wireshark-qt
