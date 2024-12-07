@@ -67,8 +67,8 @@
     - micro
     - pamixer
     - picom-git
-    - pulsemixer
     - polkit-gnome
+    - pulsemixer
     - rofi-lbonn-wayland
     - slurp
     - swaybg
